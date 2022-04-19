@@ -1,0 +1,15 @@
+.item {
+    color: #542363;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.item img {
+    width: 60px;
+    height: 60px;
+    border-radius: 25px;
+}
+
+span {
+    color: cyan;
+}

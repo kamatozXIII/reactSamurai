@@ -1,0 +1,14 @@
+
+.nav {
+    grid-area: n;
+    background: rgb(7, 99, 66);
+    height: 100vh;
+}
+
+.item {
+    color: beige;
+}
+
+.item.active {
+    color: cyan;
+}
