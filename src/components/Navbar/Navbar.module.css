@@ -3,12 +3,16 @@
     grid-area: n;
     background: rgb(7, 99, 66);
     height: 100vh;
+    padding: 30px;
 }
 
-.item {
-    color: beige;
+.item a {
+    color: aliceblue;
+    text-decoration: none;
 }
 
-.item.active {
+.item .active{
     color: cyan;
 }
+
+
